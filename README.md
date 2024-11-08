@@ -1,3 +1,6 @@
+## 📖 เอกสารประกอบการสอน (.pdf)
+- [เขียนโปรแกรมเชิงวัตถุด้วย Java](https://github.com/kongruksiamza/ebook-for-education)
+
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 - [Facebook](https://www.facebook.com/KongRuksiamTutorial)
 - [TikTok](https://www.tiktok.com/@kongruksiamstudio)
